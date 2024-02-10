@@ -8,6 +8,6 @@ My interests are:
   - 🐍 Python
   - 🕸 Networks
 
-My main principle in life "Never trust, always verify".
+My main principle in life is "Never trust, always verify".
 
 So, ✨let's get acquainted, communicate and be friends!✨
