@@ -3,10 +3,10 @@
 👩‍🎓 My name is Natalia and I’m currently learning Information Security at ITMO University. 
 
 My interests are: 
-  - 🐧 Linux
-  - 🖥 IS tools
-  - 🐍 Python
-  - 🕸 Networks
+  - Penetration testing
+  - Network security
+  - Operating systems
+  - Application security
 
 My main principle in life is "Never trust, always verify".
 
